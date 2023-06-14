@@ -35,7 +35,7 @@ Instead of building everything from scratch, we use these following libraries. S
 * Matplotlib [intallation](https://matplotlib.org/stable/users/installing.html)
 * Seaborn [intallation](https://seaborn.pydata.org/installing.html)
 * Pickle [intallation](https://pypi.org/project/pickle-mixin/)
-* Streamlit [installation] (https://docs.streamlit.io/library/get-started/installation)
+* Streamlit [intallation](https://docs.streamlit.io/library/get-started/installation)
 
 # Download project source code
 
